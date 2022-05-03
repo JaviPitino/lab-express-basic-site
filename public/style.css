@@ -1,0 +1,32 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    display: inline;
+    padding-left: 3px;
+    padding-right: 3px;
+    flex-direction: column;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+
+h1 {
+    color: red;
+}
